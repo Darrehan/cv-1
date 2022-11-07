@@ -1,3 +1,1 @@
-# cv-2
-syco music  lover
-bleeding soul
+Mini website using HTML and CSS
